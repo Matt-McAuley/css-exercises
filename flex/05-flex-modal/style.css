@@ -23,6 +23,7 @@ body {
 .text {
   padding: 20px;
   padding-left: 0px;
+  padding-right: 10px;
 }
 
 .modal {
@@ -47,6 +48,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
+  margin-right: 10px;
 }
 
 .close-button {
